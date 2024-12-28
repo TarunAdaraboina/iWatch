@@ -1,0 +1,28 @@
+.customization-form {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .customization-form h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .customization-form div {
+    margin-bottom: 15px;
+  }
+  
+  .customization-form label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .customization-form select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
